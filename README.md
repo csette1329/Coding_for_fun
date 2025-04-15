@@ -5,7 +5,7 @@ Welcome to my Coding For Fun repository! Here you will find a colletion of rando
 I am a passionate data enthusiast with a strong background in Power BI. I have extensive experience in transforming raw data into meaningful insights, creating interactive dashboards, and helping businesses make data-driven decisions. This portfolio showcases my proficiency in Power BI and highlights my ability to effectively communicate complex data visually. 
 
 ---
-## [Project 1] [PYTHON] Shared Expenses calculator (https://github.com/csette1329/Coding_for_fun/blob/3f31c70756f9d86afa24383543a5fd87774b7a7b/shared_expenses_calculator.py)
+## [Project 1] [PYTHON] Shared Expenses calculator 
 This project consisted of a Python coded program so you and your friends can organized shared expenses in a tour, trip or when hanging out.
 
 ### Preview
